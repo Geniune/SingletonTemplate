@@ -2,6 +2,7 @@
 Objective-C 创建安全的单例类
 
 例如我需要创建一个名为“GlobarManager”的单例类
+
 .h头文件：
 ```
 #define  GLOBARMANAGER [[GlobarManager alloc] init]
